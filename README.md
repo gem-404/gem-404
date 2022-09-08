@@ -6,7 +6,7 @@
 ## I'm a recent graduate, 22 years of age.
 
 - I'm currently working on a [Speed Delivery Web App][BackEnd]
-- I'm currently learning Golang
+- I'm currently learning Golang and Lua.
 - I'm looking to collaborate on any OpenSource project.
 
 - Fun fact: I love to play chess, and watch YT videos in my free time.
@@ -58,7 +58,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&theme=merko&hide=php,c,scheme)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🌱 I’m currently learning Golang
+🌱 I’m currently learning Golang and Lua.
 
 ------
 Credit: [GEM-404](https://github.com/gem-404)
