@@ -54,5 +54,5 @@
 
 ### Top Languages Used for the repos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&theme=merko&hide=php,c,scheme)](https://github.com/anuraghazra/github-readme-stats)
 
