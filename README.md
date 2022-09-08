@@ -11,18 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gem-404 | github" width="22px" src=""/>][github]
-[<img align="left" alt="gem-404 | linkedin" width="22px" src=""/>][linkedin]
-[<img align="left" alt="gem-404 | email" width="22px" src=""/>][Email]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="gem-404 | github" width="22px" src=""/>][python]
-[<img align="left" alt="gem-404 | linkedin" width="22px" src=""/>][javascript]
-[<img align="left" alt="gem-404 | email" width="22px" src=""/>][Golang]
-[<img align="left" alt="gem-404 | github" width="22px" src=""/>][Bash]
-[<img align="left" alt="gem-404 | linkedin" width="22px" src=""/>][Lua]
+
 
 <br />
 <br />
