@@ -45,5 +45,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gem-404&theme=merko&repo=snippet)](https://github.com/gem-404/snippet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gem-404&theme=merko&repo=pyfiles)](https://github.com/gem-404/pyfiles)
 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [github]: https://github.com/gem-404
 [linkedin]: https://linkedin.com/ephantus-gicobi
