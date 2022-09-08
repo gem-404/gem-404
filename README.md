@@ -53,7 +53,9 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages Used for the repos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&)](https://github.com/gem-404/)
 
 [github]: https://github.com/gem-404
 [linkedin]: https://linkedin.com/ephantus-gicobi
