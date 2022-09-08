@@ -1,6 +1,8 @@
 
 ### Hi there, I'm Ephantus - A.K.A {gem-404}
 
+<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
+
 ## I'm a recent graduate, 22 years of age.
 
 - I'm currently working on a [Speed Delivery Web App][BackEnd]
@@ -11,8 +13,9 @@
 
 ### Connect with me:
 
-[github]: https://github.com/gem-404
-[linkedin]: https://linkedin.com/ephantus-gicobi
+
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mashaephantus2000@gmail.com@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.linkedin.com/in/ephantus-gicobi/)
 
 
 <br />
@@ -56,3 +59,27 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&theme=merko&hide=php,c,scheme)](https://github.com/anuraghazra/github-readme-stats)
 
+
+🌱 I’m currently learning Golang
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+
+
+------
+Credit: [GEM-404](https://github.com/gem-404)
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
