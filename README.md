@@ -48,10 +48,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 ### Top Languages Used for the repos
 
