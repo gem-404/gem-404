@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<img align="left" alt="gem-404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gem-404&show_icons=true&hide_border=false">
+<img align="left" alt="gem-404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gem-404&theme=merko&show_icons=true&hide_border=false">
 
 [github]: https://github.com/gem-404
 [linkedin]: https://linkedin.com/ephantus-gicobi
