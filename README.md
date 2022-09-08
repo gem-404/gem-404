@@ -25,17 +25,12 @@
 -  Javascript
 -  Bash shell
 
-
-<br />
 <br />
 
 ### Git-Stats
 
 <img align="left" alt="gem-404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gem-404&theme=merko&show_icons=true&hide_border=false">
 
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
