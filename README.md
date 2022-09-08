@@ -11,6 +11,9 @@
 
 ### Connect with me:
 
+[github]: https://github.com/gem-404
+[linkedin]: https://linkedin.com/ephantus-gicobi
+
 
 <br />
 
@@ -54,5 +57,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-404&theme=merko)](https://github.com/gem-404)
 
-[github]: https://github.com/gem-404
-[linkedin]: https://linkedin.com/ephantus-gicobi
