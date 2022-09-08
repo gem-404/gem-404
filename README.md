@@ -19,6 +19,12 @@
 
 ### Languages and Tools:
 
+-  Golang
+-  Python
+-  Lua
+-  Javascript
+-  Bash shell
+
 
 <br />
 <br />
