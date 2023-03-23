@@ -1,9 +1,7 @@
 
-### Hi there, I'm Ephantus - A.K.A {gem-404}
+### Hi there, I'm Ephantus - A.K.A {gem-404}.
 
 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
-
-## I'm a recent graduate, 23 years of age.
 
 - I'm currently working on a [Speed Delivery Web App][BackEnd]
 - I'm currently learning Golang and Lua.
