@@ -10,7 +10,7 @@
 - Fun fact: I love to play chess, and watch YT videos in my free time.
 
 
-[Curriculum Vitae](https://cutt.ly/ephantus-cv)
+----------- [**Curriculum Vitae**](https://cutt.ly/ephantus-cv) ----------------------------
 
 ### Connect with me:
 
